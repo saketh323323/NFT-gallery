@@ -17,12 +17,12 @@ The *NFT Art Gallery* is a virtual platform that allows artists to showcase thei
 ## Tech Stack
 
 ### Frontend
-- React.js: Build the user interface.
-- WebGL or Three.js: Create a 3D interactive experience.
-- Ethers.js or Web3.js: Enable blockchain interactions.
+- React.js
+- WebGL or Three.js
+- Web3.js
 
 ### Blockchain
-- Ethereum, Tezos, or Solana: Blockchain platforms for NFT storage and trading.
+- Ethereum
 
 ---
 
