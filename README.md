@@ -37,5 +37,5 @@ The *NFT Art Gallery* is a virtual platform that allows artists to showcase thei
 
 1. *Clone the repository*
    ```bash
-   git clone https://github.com/your-username/nft-art-gallery.git
-   cd nft-art-gallery
+   git clone https://github.com/saketh323323/NFT-gallery.git
+   cd NFT-gallery
